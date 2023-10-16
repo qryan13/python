@@ -1,3 +1,5 @@
+# Enter a value in radius to return the area and circumference of the corresponding circle.
+# default unit is set to meters
 import math
 
 radius = input('Enter the radius in meters: ')
